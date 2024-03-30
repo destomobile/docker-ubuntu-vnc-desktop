@@ -1,1 +1,1 @@
-Dockerfile.linuxmint
+Dockerfile.amd64
